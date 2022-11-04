@@ -1,3 +1,7 @@
+import { ValorantAPI } from 'uvaw';
 import { ValorantClient } from './lib/ValorantClient';
 
-export { ValorantClient };
+export { 
+    ValorantAPI, 
+    ValorantClient,
+};
